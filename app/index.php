@@ -28,8 +28,8 @@
 			</nav>
 			<nav class="main_header_content_menu_mobile">
 				<ul>
-					<li><span class=" main_header_content_menu_obj icon-menu icon-notext"></span>
-						<ul class="main_header_content_menu_sub">
+					<li><span class="main_header_content_menu_mobile_obj icon-menu icon-notext"></span>
+						<ul class="main_header_content_menu_mobile_sub ds_none">
 							<li><a href="#">Home</a></li>
 							<li><a href="#">Blog</a></li>
 							<li><a href="#">A Escola</a></li>
@@ -483,5 +483,7 @@
 			<p>Totos os direitos reservados para Upinsider &reg;</p>
 		</footer>
 
+		<script src="../assets/jquery/jquery-3.5.1.min.js"></script>
+		<script src="../assets/js/main.js"></script>
 	</body>
 	</html>
