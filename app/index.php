@@ -18,7 +18,7 @@
 			<a href="" class="logo">
 				<img src="../assets/_img/logo.png" alt="Bem vindo ao Curso Prático de HTML e CSS3" title="Bem vindo ao Curso Prático de HTML e CSS3">
 			</a>
-			<nav class="main_header_content_menu ds_none">
+			<nav class="main_header_content_menu">
 				<ul>
 					<li><a href="#">Home</a></li>
 					<li><a href="#">Blog</a></li>
